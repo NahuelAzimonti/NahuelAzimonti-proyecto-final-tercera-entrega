@@ -1,0 +1,14 @@
+/* MAIN-INSTRUMENT */
+.flex_container {
+    padding-top: 20px;
+   @include flex_containe (flex,space-evenly,wrap)
+}
+.card {
+    margin-bottom: 10px;
+}
+.card-img-top {
+    height: 190px;
+}
+.card_title-piano {
+    font-size: 15.69px;
+}
